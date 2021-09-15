@@ -1,0 +1,10 @@
+-IC:\Users\User\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Users\User\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Users\User\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Users\User\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Users\User\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Users\User\mingw64\x86_64-w64-mingw32\include
+-IC:\Users\User\Desktop\CPPExamples\Section5\InitializingVariables
+-std=c++14
+-target
+x86_64-pc-windows-gnu
